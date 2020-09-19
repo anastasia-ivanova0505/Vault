@@ -1,0 +1,10 @@
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\bin\Debug\ClientMulticast.exe.config
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\bin\Debug\ClientMulticast.exe
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\bin\Debug\ClientMulticast.pdb
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\obj\Debug\ClientMulticast.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\obj\Debug\ClientMulticast.ClientMulticast.resources
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\obj\Debug\ClientMulticast.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\obj\Debug\ClientMulticast.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\obj\Debug\ClientMulticast.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\obj\Debug\ClientMulticast.exe
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\ClientMulticast\obj\Debug\ClientMulticast.pdb

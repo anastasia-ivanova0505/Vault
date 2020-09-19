@@ -1,0 +1,7 @@
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\Network programming\bin\Debug\Network programming.exe.config
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\Network programming\bin\Debug\Network programming.exe
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\Network programming\bin\Debug\Network programming.pdb
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\Network programming\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\Network programming\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\Network programming\obj\Debug\Network programming.exe
+C:\Users\Взрослая академия\source\repos\Vault\Network programming\Network programming\obj\Debug\Network programming.pdb
