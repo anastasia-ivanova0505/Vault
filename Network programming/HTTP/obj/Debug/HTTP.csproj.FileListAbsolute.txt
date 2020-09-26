@@ -1,0 +1,7 @@
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HTTP\bin\Debug\HTTP.exe
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HTTP\bin\Debug\HTTP.pdb
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HTTP\obj\Debug\HTTP.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HTTP\obj\Debug\HTTP.exe
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HTTP\obj\Debug\HTTP.pdb

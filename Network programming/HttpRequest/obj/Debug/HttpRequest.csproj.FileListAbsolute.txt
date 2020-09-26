@@ -1,0 +1,10 @@
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\bin\Debug\HttpRequest.exe.config
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\bin\Debug\HttpRequest.exe
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\bin\Debug\HttpRequest.pdb
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\obj\Debug\HttpRequest.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\obj\Debug\HttpRequest.Form1.resources
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\obj\Debug\HttpRequest.Properties.Resources.resources
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\obj\Debug\HttpRequest.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\obj\Debug\HttpRequest.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\obj\Debug\HttpRequest.exe
+C:\Users\Взрослая академия\Source\Repos\Vault\Network programming\HttpRequest\obj\Debug\HttpRequest.pdb
