@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast", "Multicast\Mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMulticast", "ClientMulticast\ClientMulticast.csproj", "{8F3F4A03-AA1F-4C69-A357-5ACF7A8B58E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP", "HTTP\HTTP.csproj", "{17681138-1E75-4147-AD04-A41E1F2DA7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequest", "HttpRequest\HttpRequest.csproj", "{BAC6C2E1-0E7A-4ECB-B6EF-6A4A79453A50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{8F3F4A03-AA1F-4C69-A357-5ACF7A8B58E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3F4A03-AA1F-4C69-A357-5ACF7A8B58E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3F4A03-AA1F-4C69-A357-5ACF7A8B58E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17681138-1E75-4147-AD04-A41E1F2DA7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17681138-1E75-4147-AD04-A41E1F2DA7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17681138-1E75-4147-AD04-A41E1F2DA7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17681138-1E75-4147-AD04-A41E1F2DA7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC6C2E1-0E7A-4ECB-B6EF-6A4A79453A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC6C2E1-0E7A-4ECB-B6EF-6A4A79453A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC6C2E1-0E7A-4ECB-B6EF-6A4A79453A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC6C2E1-0E7A-4ECB-B6EF-6A4A79453A50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
